@@ -1,0 +1,36 @@
+body{
+    background-color: #f79a9a;
+}
+
+.verde{
+    font-size: 15px;
+    color: green;
+        }
+
+.vermelho{
+    font-size: 20px;
+    color: red;
+}
+
+.azul{
+    font-size: 20px;
+    color: blue;
+}
+
+.roxo{
+    font-size: 15px;
+    color: purple
+}
+
+.vermelho-t{
+    color: red;
+}
+
+.lista-item{
+    font-size: 15px;
+}
+
+.imagem{
+    width: 300px;
+    align-self: center;
+}

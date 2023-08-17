@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(250, 235, 215, 0.596);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#capa{
+    text-align: center;
+}
+
+#links{
+    text-align: center;
+    padding: 18px;   
+}
+
+a{
+    color: #4b556a;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#campanhas{
+    background-color: antiquewhite;
+    font-size: 15px;
+    padding: 3px;
+    text-align: center;
+}
+h2{
+    color:  #737e94;
+}
+
+#rodape{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 2px;
+}
+
+.img-campanha{
+    border-style: solid;
+    border-color: rgb(158, 154, 152);
+    border-width: 10px;
+}
